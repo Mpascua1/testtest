@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 echo ${0}
 echo "Hello everyone!"
 echo "Enter a number."

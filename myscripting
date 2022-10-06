@@ -1,4 +1,4 @@
-#1/bin/bash
+#!/bin/bash
 echo ${0}
 ehco "Hello everyone!"
 ls -l
