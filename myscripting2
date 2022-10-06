@@ -1,0 +1,13 @@
+#1/bin/bash
+echo ${0}
+echo "Hello everyone!"
+echo "Enter a number."
+read userNum
+echo "The number you entered is $userNum."
+ls -l /home/pascual/bin
+if [[ $userNum -gt 50 ]]
+then
+    echo "You entered a very large number."
+else
+    echo "You entered a small number."
+fi
